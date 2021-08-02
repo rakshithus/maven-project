@@ -1,38 +1,40 @@
 Hello, Welcome to great leaders from Bangalore and Odisha and Chittradurga !
 Happy Saturday all !
-<!DOCTYPE html>
-<!-- Created By CodingNepal - www.codingnepalweb.com -->
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!------<title> Website Layout | CodingLab</title>------>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
-   </head>
+<!doctype html>
+<!--[if IE 8]><html lang="pt-br" class="no-js ie8 oldie"><![endif]-->
+<!--[if IE 9]><html lang="pt-br" class="no-js ie9"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="pt-br" class="no-js">
+<!--<![endif]-->
+<head>
+	<base href="">
+	<meta charset="utf-8"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="msapplication-tap-highlight" content="no">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta name="theme-color" content="#111111" />
+	<meta name="description" content=""/>
+	<title></title>
+	<link rel="author" href="humans.txt">
+	<link rel="manifest" href="manifest.json" />
+	<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57-precomposed.png">
+	<link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon.png">
+	<link rel="shortcut icon" sizes="16x16" href="favicon.ico">
+	<link rel="stylesheet" media="all" href="styles/index.css">
+</head>
 <body>
-  <nav>
-    <div class="menu">
-      <div class="logo">
-        <a href="#">CodingLab</a>
-      </div>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Feedback</a></li>
-      </ul>
-    </div>
-  </nav>
-  <div class="img"></div>
-  <div class="center">
-    <div class="title">Create Amazing Website</div>
-    <div class="sub_title">Pure HTML & CSS Only</div>
-    <div class="btns">
-      <button>Learn More</button>
-      <button>Subscribe</button>
-    </div>
-  </div>
+	<!-- fallback -->
+	<noscript>You need to enable JavaScript to run this app.</noscript>
+
+	<!-- app -->
+	<main id="root" role="main"></main>
+
+	<!-- libraries - scripts at the bottom for fast page loading -->
+	<script src="scripts/index.js"></script>
 </body>
 </html>
