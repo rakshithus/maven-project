@@ -1,10 +1,10 @@
 <html>
 <body>
-  
-<p style="font-size:30px"><b>Hello All,
-Welcome to great leaders from Bangalore, Odisha and Chittradurga !
-Happy Saturday all !
-Enjoy your day !</b></p>
-  
+  <b>
+  <p>style="font-size:30px"><b>Hello All,</p>
+  <p>Welcome to great leaders from Bangalore, Odisha and Chittradurga !</p>
+  <p>Happy Saturday all !</p>
+  <p>Enjoy your day !</p>
+  </b>
 </body>
 </html>
