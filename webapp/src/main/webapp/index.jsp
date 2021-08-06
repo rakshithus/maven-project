@@ -1,3 +1,10 @@
-<b>Hello, Welcome to great leaders from Bangalore and Odisha and Chittradurga !
+<html>
+<body>
+  
+<p style="color:blue"><b>Hello All,
+Welcome to great leaders from Bangalore, Odisha and Chittradurga !
 Happy Saturday all !
-Enjoy your day !</b>
+Enjoy your day !</b></p>
+  
+</body>
+</html>
