@@ -1,3 +1,3 @@
-Hello, Welcome to great leaders from Bangalore and Odisha and Chittradurga !
+<b>Hello, Welcome to great leaders from Bangalore and Odisha and Chittradurga !
 Happy Saturday all !
-Enjoy your day !
+Enjoy your day !</b>
