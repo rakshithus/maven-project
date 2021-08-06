@@ -1,7 +1,7 @@
 <html>
 <body>
   
-<p style="color:blue""font-size:50px"><b>Hello All,
+<p style="font-size:50px"><b>Hello All,
 Welcome to great leaders from Bangalore, Odisha and Chittradurga !
 Happy Saturday all !
 Enjoy your day !</b></p>
