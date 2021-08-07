@@ -5,7 +5,7 @@
   <p>Hello All,</p>
   <p>Welcome to great leaders from Bangalore, Odisha and Chittradurga !</p>
   <p>Happy Saturday all !</p>
-  <p>Enjoy your day !</p>
+  <p>Enjoy your weekend !</p>
   </b>
 </body>
 </html>
