@@ -7,6 +7,6 @@
   <p>Happy Saturday all !</p>
   <p>Enjoy your weekend !</p>
     <p>Next project Buildpipeline!</p>
-  !</b>
+  </b>
 </body>
 </html>
